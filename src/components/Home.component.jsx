@@ -1,5 +1,4 @@
 import React, {Component} from 'react'
-import ReactDOM from 'react-dom'
 import {FaClipboard, FaHeart, FaTimes, FaGithub,FaLinkedin, FaFacebook,FaTwitter } from 'react-icons/fa'
 
 
